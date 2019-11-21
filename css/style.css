@@ -1,0 +1,38 @@
+body {
+    margin: 7vh auto;
+    width: 30%;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form input {
+    margin: 0.5vh 0 2vh 0; 
+    height: 3vh;
+    font-size: 2.2vh;
+}
+
+.is-russian {
+    height: 1.2vh!important;
+}
+
+table {
+    margin-top: 7vh;
+    visibility: hidden;
+}
+
+.showcode-button {
+    margin-top: 4vh;
+    visibility: hidden;
+}
+
+.showcode-text {
+    margin-top: 4vh;
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
